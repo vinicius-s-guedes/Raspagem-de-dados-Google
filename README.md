@@ -3,7 +3,7 @@
 
 Porque escolhi o C# e ReactJS:
 
-Por ser algo que trabalho boa parte do tempo e tenho uma facilidade maior, visando a questão do tempo que eu tinha de foco para produzir esses sistemas.
+visando a questão do tempo de foco escolhi utilizar Asp.NET Core com React.js, pois está muito presente no meu dia a dia.
 
 Qual a estratégia utilizada:
 
