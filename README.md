@@ -1,8 +1,6 @@
 # Raspagem de dados-Google#
 >extração do resultado do google usando a técnica de raspagem de dados(Web Scraping)
 
-![](./static/application.gif)
-
 Porque escolhi o C# e ReactJS:
 
 Por ser algo que trabalho boa parte do tempo e tenho uma facilidade maior, visando a questão do tempo que eu tinha de foco para produzir esses sistemas.
