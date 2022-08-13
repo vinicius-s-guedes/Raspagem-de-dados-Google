@@ -21,7 +21,7 @@ Link: https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotn
 
 ### Executar a aplicação
 Acessando a aplicação:
-Extraía o zip enviado por e-mail e acessa a pasta  e execute o arquivo “GoogleSearch.exe”
+Extraía o zip "GoogleSearch" e execute o arquivo “GoogleSearch.exe”
 Abra o navegador na url informada pelo cmd que foi aberto(Padrão: http://localhost:5000)
 
 ## Instalação e construir o código
