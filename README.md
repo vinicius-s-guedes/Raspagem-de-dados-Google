@@ -3,7 +3,7 @@
 
 Porque ASP.NET Core e ReactJS:
 
-Visando a questão do tempo de foco escolhi utilizar Asp.NET Core com ReacJS, pois está muito presente no meu dia a dia.
+Visando a questão do tempo de foco escolhi utilizar ASP.NET Core com React.js, pois está muito presente no meu dia a dia.
 
 Estratégia utilizada:
 
