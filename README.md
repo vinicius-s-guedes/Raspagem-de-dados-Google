@@ -1,11 +1,11 @@
 # Raspagem de dados-Google#
 >extração do resultado do google usando a técnica de raspagem de dados(Web Scraping)
 
-Porque ASP.NET Core e ReactJS:
+### Porque ASP.NET Core e ReactJS:
 
 Visando a questão do tempo de foco escolhi utilizar ASP.NET Core com React.js, pois está muito presente no meu dia a dia.
 
-Estratégia utilizada:
+### Estratégia utilizada:
 
 Para realizar o desafio, usei a técnica de coleta de dados, mais conhecida como Web Scraping, que consistem em coletar informações na internet de maneira automatizada a partir de bases de dados públicas disponibilizadas em sites e outros serviços online.
 
